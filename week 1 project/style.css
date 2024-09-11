@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+}
+.banner{
+    color: grey;
+    cursor: pointer;
+    margin-left: 25;
+}
